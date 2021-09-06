@@ -1,3 +1,6 @@
+
+Built using Three.js, Javascript, and inspired by DesignCourse on Youtube, You can view this live site at https://3dlandingpage.netlify.app/
+
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
